@@ -3,6 +3,8 @@ I needed a decent calculator emulator on the command-line, to invoke via i3wm. I
 
 Here are some themes for the x.org calculator, still very crude!
 
+![default-color-image](/default-color.png)
+
 # Installation
 1. place themes in .xres or anywhere else you wish.
 
