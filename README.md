@@ -3,7 +3,7 @@ I needed a decent calculator emulator :rainbow: on the command-line, to invoke v
 
 Here is a collection of some themes for the x.org calculator, still very crude!
 
-![default-color-image](/default-color.png) <img src="https://github.com/ubuntupunk/xcalc-themes/blob/main/forest.png" width=40% height=40% alt=forest></a>
+![default-color-image](/default-color.png) <img src="https://github.com/ubuntupunk/xcalc-themes/blob/main/forest.png"  width="250" height="380"></a>
 
 # Installation
 1. place themes in .xres or anywhere else you wish.
