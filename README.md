@@ -8,7 +8,7 @@ Themes for the x.org calculator, still very crude!
 
 ```
 ! SOURCE PROGRAM SPECIFIC FILES !
-#include "/home/<user>/.xres/xcalc"
+#include "/home/<user>/.xres/xcalc/theme1"
 ```
 
 3. Remember to invoke xrdb
