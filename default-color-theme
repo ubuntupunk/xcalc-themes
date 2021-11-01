@@ -1,4 +1,3 @@
-#include "XCalc"
 
 XCalc*ti.backgroundPixmap:		gray3?foreground=gray70&background=gray85
 XCalc*.bevel.background:		gray80
