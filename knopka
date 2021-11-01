@@ -1,0 +1,35 @@
+!knopka
+!http://a0601.narod.ru/LaboraNr3/
+
+XCalc*Command.foreground: yellow
+XCalc*Command.background: black
+XCalc*Command.font: *times-bold-i-* 140*
+XCalc*ti.button20.background: red
+XCalc*ti.button20.foreground: green
+
+XCalc.ti.Command.foreground: yellow
+XCalc.ti.Command.background: DeepPink1
+XCalc.ti.CommandJfont:*times-bold-i-*140*
+XCalc.ti.button20.background: purple
+XCalc.ti.button20.foreground: green
+
+XCalc.ti.Command.foreground: yellow
+XCalc.ti.Command.background: DeepPink1
+XCalc.ti.Command.font: *times-bold-i-* 140*
+XCalc.ti.button20.background: purple
+XCalc.ti.button20.foreground: green
+
+XCalc.ti.button22.ShapeStyle: rectangle
+XCalc.ti.button23.ShapeStyle: rectangle
+XCalc.ti.button24.ShapeStyle: rectangle
+XCalc.ti.button27.ShapeStyle: rectangle
+XCalc.ti.button28.ShapeStyle: rectangle
+XCalc.ti.button29.ShapeStyle: rectangle
+XCalc.ti.button32.ShapeStyle: rectangle
+XCalc.ti.button33.ShapeStyle: rectangle
+XCalc.ti.button34.ShapeStyle: rectangle
+XCalc.ti.button37.ShapeStyle: rectangle
+
+XCalc.ti.bevel.screen.LCD.foreground: black
+XCalc.ti.bevel.screen.LCD.background: green
+
