@@ -1,0 +1,22 @@
+!Xcalc
+
+*Form.background: gray40
+*Command.background: gray
+*xcalc*screen*background: rgb:f/e/8
+*xcalc*button22.background: white
+*xcalc*button23.background: white
+*xcalc*button24.background: white
+*xcalc*button27.background: white
+*xcalc*button28.background: white
+*xcalc*button29.background: white
+*xcalc*button32.background: white
+*xcalc*button33.background: white
+*xcalc*button34.background: white
+*xcalc*button37.background: white
+*xcalc*button38.background: white
+*xcalc*button39.background: white
+*xcalc*button20.background: rgb:e/a/7
+*xcalc*button25.background: rgb:e/a/7
+*xcalc*button30.background: rgb:e/a/7
+*xcalc*button35.background: rgb:e/a/7
+*xcalc*button40.background: rgb:e/a/7

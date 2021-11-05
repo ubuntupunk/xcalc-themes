@@ -1,0 +1,10 @@
+xcalc.cursor:	Hand2
+xcalc.ti.button3.label: SQRT
+xcalc*font: -*-lucidatypewriter-bold-r-*-*-16-160-*-*-*-*-iso10646-1
+xcalc*geometry: 300x500
+xcalc*background: WhiteSmoke
+xcalc*foreground: Black
+xcalc.ti.bevel.screen.*background:	DarkSeaGreen
+xcalc.ti.bevel.screen.*foreground:	DarkSlateGray
+xcalc.ti.bevel.screen.LCD.font:	-*-lucidatypewriter-*-r-*-*-25-180-*-*-*-*-iso10646-1
+
